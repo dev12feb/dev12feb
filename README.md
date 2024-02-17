@@ -18,14 +18,14 @@ I specialize in:
 
 You can connect with me on:
 
-- LinkedIn: www.linkedin.com/in/divyansh-dwivedii
+- LinkedIn: [Divyansh Dwivedi](www.linkedin.com/in/divyansh-dwivedii)
 - Email: divyansh0012@gmail.com
 
 Let's connect and share ideas!
 
 ## Support ☎️
 
-If you find any issues with my projects or have any questions, please don't hesitate to [open an issue](link_to_issue_tracker) or reach out to me directly. Your feedback is valuable!
+If you find any issues with my projects or have any questions, please don't hesitate to [open an issue](https://github.com/dev12feb/dev12feb/blob/main/link_to_issue_tracker) or reach out to me directly. Your feedback is valuable!
 
 
 
