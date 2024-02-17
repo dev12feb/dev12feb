@@ -18,7 +18,7 @@ I specialize in:
 
 You can connect with me on:
 
-- LinkedIn: [Divyansh Dwivedi](www.linkedin.com/in/divyansh-dwivedii)
+- LinkedIn: [Divyansh Dwivedi](https://www.linkedin.com/in/divyansh-dwivedii/)
 - Email: divyansh0012@gmail.com
 
 Let's connect and share ideas!
